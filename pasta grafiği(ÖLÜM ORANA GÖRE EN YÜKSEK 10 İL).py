@@ -29,5 +29,3 @@ plt.pie(
 plt.title("Ölüm Oranı En Yüksek 10 İl", fontsize=14)
 plt.tight_layout()
 plt.show()
-(.venv) C:\Users\wavci\PycharmProjects\PythonProject\covid_proje
-git remote add origin https://github.com/velatavcil/covid-data-visualization.git
